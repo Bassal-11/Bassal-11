@@ -13,9 +13,9 @@
 <li> 💾  Enthusiastic about pushing the boundaries of web development and  in the ever-evolving tech landscape.</li>
 <li> 👉 Believer in the power of collaboration; let's build something amazing together in the open-source community٫</li>
 <li> 🤔 In the realm of bits and pixels, I strive for code that not only works flawlessly but also inspires awe</li>
-            <li>
+<!--             <li>
 <p dir="auto">📄 Know about my experiences <a href="#" rel="nofollow">My CV</a></p>
-</li>
+</li> -->
 </ul>
 
 
@@ -43,5 +43,9 @@
 
 <p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Header" data-canonical-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" target="_blank">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassal-11)](https://github.com/Bassal-11/github-readme-stats)
+
+
+
+
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassal-11)](https://github.com/Bassal-11/github-readme-stats)
+   
