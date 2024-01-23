@@ -39,13 +39,7 @@
 <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 
 
-<img align="left" src="https://camo.githubusercontent.com/2f81084820155157cea71e38cc59d69fd1693895f5338a84293151a02962b5f6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616264756c6c61682d616c6b6873686169652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="Muhammed-bassal" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-bassal&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
-
-<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Header" data-canonical-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
 
 
 
-
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassal-11)](https://github.com/Bassal-11/github-readme-stats)
-   
+<img src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Header" style="width: 80%;max-width: 100%;margin-top: 20px;">   
