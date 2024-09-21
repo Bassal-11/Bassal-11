@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 <img align="right" alt="GIF" style="border-radius: 10px" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrM2Q3Y3ZrM2JsY3U3dDZ4ZTJxdGNld29hdDRjN3oxOWYydXhuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" />
 
 <div style="display: flex; align-items: flex-start;">
-  <ul style="flex: 1; margin-right: 20px;">
+  <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
  <li>🌱 I’m always exploring new frontend technologies to enhance my skills.</li>
     <li>💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.</li>
     <li>🔭 I’m actively seeking new challenges that help me grow as a developer.</li>
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 
 ## 🛠 Technologies & Tools
 
-<p align="center">
+<p align="center" style="font-size: 1.5em;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,28 +45,27 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 </p>
 
 ---
+### 👀 visitor count
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</p>
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
 
 ---
+## 🤝 Let's Work Together!
 
-## 🌟 Featured Project
+<img align="right" alt="GIF" style="border-radius: 10px" width=" 150px" height="120px" src="https://media1.tenor.com/m/AyMumB_9uV4AAAAC/letsdothis-gelm.gif" />
 
-### [Awesome Project Name](http://link-to-your-project.com)
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" style="max-width: 600px;" alt="Project Screenshot"/>
-  <p style="margin-top: 10px;">This project showcases my skills in [specific technologies or frameworks used]. It features [brief description of features or functionalities].</p>
-  <p><strong>Check it out here:</strong> <a href="http://link-to-your-project.com" target="_blank">Live Demo</a> | <a href="http://github.com/your-repo" target="_blank">GitHub Repo</a></p>
-</div>
+<div style="display: flex; align-items: flex-start;">
+  <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
+    <li> 🌟 **Innovative Solutions:** Fresh ideas and creative approaches to problem-solving.</li>
+    <li> 📚 **Continuous Learning:** Staying updated with the latest technologies for high-quality results.</li>
+    <li> ✅ **Attention to Detail:** Focusing on the finer aspects of design and functionality. </li>
+    <li> 🤝 **Team Player:** Thriving in collaborative environments with open communication.</li>
+
+  </ul>
+  </div>
+
 
 ---
-
-
-
 
 ## 🔗 Let's Connect!
 
