@@ -69,9 +69,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 
 ## 🔗 Let's Connect!
 
-- 📫 Feel free to reach out via email: [mhammed@example.com](mailto:mhammed@example.com)
-- 🌐 Visit my portfolio: [www.yourportfolio.com](http://www.yourportfolio.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 Feel free to reach out via email: [baslm8496@gmail.com](mailto:baslm8496@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhamed-basal-03853a224/)
 
 ---
 
